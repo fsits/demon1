@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+   <title>Onkar's 😁Personal Site</title>
+   <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body >s
+    <table cellspacing="20">
+      <tr>
+        <td><img  src="https://media.licdn.com/dms/image/C4D03AQEcSvlqxYmuvA/profile-displayphoto-shrink_400_400/0/1657023780774?e=1681948800&v=beta&t=Mxk2ZvovWCaJMDZGBBirPScxXAVmrrlYfTa_M68O2Og" width="150",height="150" alt="Rangoku wallpaper"></td>
+        <td><h1>Onkar Mane</h1>
+        <p><em>Founder and CTO of <strong><a href="https://www.appbrewery.co">The App Brewery</a></strong>.</em></p>
+        <p>I am an IOS and Web Developer . I ❤️ coffee and brew my own beers.</p></td>
+      </tr>
+    </table>
+    <hr>
+    <h3>Books and Teaching</h3>
+    <ul>
+      <li>The complete iOS Ap Development Bootcamp</li> <!--bullet marking -->
+      <li>The complete Web Developlment Bookcam</li>
+    </ul>
+    <hr>
+    <h3>Work Experience</h3>
+    <table cellspacing="10">
+      <th>
+<tr>
+  <th>Dates</th>
+  <th>Work</th>
+</tr>
+    </th>
+
+      <tr>
+        <td>2010-2013</td>
+        <td> Lead Developer at Tempo App</td>
+      </tr>
+      <tr>
+        <td>2010</td>
+        <td>Researcher at The Institute of Coginitive Neruosciences</td>
+      </tr>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+    <table cellspacing="10">
+  <tr>
+    <td>iOS Development</td>
+    <td>⭐⭐⭐⭐⭐</td>
+    <td>Web Development</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>Playing Game</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>Watching Anime</td>
+    <td>⭐⭐⭐⭐⭐⭐</td>
+  </tr>
+    </table>
+    <hr>
+    <h3>Web Sites</h3>
+    <a href="https://www.google.com">Visit google.com!</a><br>
+    <a href="https://www.riotgames.com">Visit Riot Games</a><br>
+    <hr>
+    <h3>Personal Details</h3>
+    <a href="hobbies.html">MY Hobbies</a><br>
+    <a href="contact-me.html">Contact Me</a>
+  </body>
+</html>
